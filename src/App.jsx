@@ -127,7 +127,7 @@ function App() {
                                 <a href="#projects" className="primary-btn">
                                     Explore my work <ArrowUpRight size={16} />
                                 </a>
-                                <a href="/resume.pdf" download className="secondary-btn">
+                                <a href="/Dijo-CG-resume.pdf" download className="secondary-btn">
                                     <Download size={15} /> Download CV
                                 </a>
                             </div>
